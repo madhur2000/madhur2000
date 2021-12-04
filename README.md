@@ -3,8 +3,9 @@
 <br>
 
 - 🔭 Currently growing my knowledge in Data Structures and Alogorithms
-- 👯 I'm also interested in Android Application Development
-- 💬 Check out my first android app on Google Play Store https://bit.ly/3nNzhsx 
+- 🔭 I'm also interested in Android Application Development
+- 👯 Need a little help in this app: https://drive.google.com/file/d/1HVyJmbULN-EH9MoAm-SA5Uzhkf48n_GF/view 
+- 😄 Check out my first android app on Google Play Store https://bit.ly/3nNzhsx 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/madhur-rakheja-9b3b27169/)
 - 😄 Pronouns: He/His
 
